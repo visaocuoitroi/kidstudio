@@ -1,49 +1,42 @@
 [
 	{
-		"title": "Anh  da đen và đồng bọn",
+		"title": "Anh da đen và đồng bọn",
     "image": "https://i.ytimg.com/vi/IX-Qlp1JlNI/default.jpg",
 		"episodes": [
 			{
 				"title": "Phần 1",
-        "name": "",
-        "image": "",
-				"link": "Kxk6iBzzVlE"
+        "name": "Anh da đen và đồng bọn 1",
+				"id": "Kxk6iBzzVlE"
 			},
 			{
 				"title": "Phần 2",
         "name": "",
-        "image": "",
-				"link": "02ncKcuG25o"
+				"id": "02ncKcuG25o"
 			},
 			{
 				"title": "Phần 3",
         "name": "",
-        "image": "",
-				"link": "JbvZYqJwaD8"
+				"id": "JbvZYqJwaD8"
 			},
 			{
 				"title": "Phần 4",
         "name": "",
-        "image": "",
-				"link": "2p6eQYK-ctM"
+				"id": "2p6eQYK-ctM"
 			},
 			{
 				"title": "Phần 5",
         "name": "",
-        "image": "",
-				"link": "b-lYfw5lWhc"
+				"id": "b-lYfw5lWhc"
 			},
 			{
 				"title": "Phần 6",
         "name": "",
-        "image": "",
-				"link": "8TZviBSZP-o"
+				"id": "8TZviBSZP-o"
 			},
 			{
 				"title": "Phần 7",
         "name": "",
-        "image": "",
-				"link": "bviX1iI47aM"
+				"id": "bviX1iI47aM"
 			}
 		]
 	},
@@ -54,8 +47,7 @@
 			{
 				"title": "Tập 1",
         "name": "Phim Kiếm Hiệp Rẻ Tiền",
-        "image": "https://i.ytimg.com/vi/IX-Qlp1JlNI/default.jpg",
-				"link": "https://www.youtube.com/watch?v=_4sILayWUqc"
+				"id": "4sILayWUqc"
 			}
 		]
 	}
